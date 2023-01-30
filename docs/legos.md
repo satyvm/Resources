@@ -18,9 +18,9 @@ You can read more about how to suggest & make changes in our **[wiki.](https://g
 ### List of Legos
 
 **Gitcoin Passport:**
-- [Website](https://www.something.org/)
-- [Github](https://github.com/Something)
-- Summary: *Lorem Ipsum*
+- [Website](https://go.gitcoin.co/passport)
+- [Github](https://github.com/gitcoinco/passport)
+- Summary: *When a user connects a passport, a trust score can be calculated for them which is used as evidence of personhood - the greater the score the more likely they are to be a genuine user.*
 
 **Shared IP:**
 - [Website](https://www.something.org/)
